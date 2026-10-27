@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/d6dda50cb29a
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/HowToLiveBetter/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/HowToLiveBetter-CN/releases) 下载。
 
 
 *⬇️ > **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
